@@ -1,10 +1,10 @@
 package curso3.camposdeobjetos;
 
 public class Carro {
-String modelo;
-int ano;
+public String modelo;
+public int ano;
 
-Carro(){
+public Carro(){
 	ano = 2014;
 }
 

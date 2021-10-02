@@ -1,4 +1,4 @@
-package curso1.basico;
+package curso1.TiposDeDados.aula1.basico;
 
 class MeuMundo{
 	

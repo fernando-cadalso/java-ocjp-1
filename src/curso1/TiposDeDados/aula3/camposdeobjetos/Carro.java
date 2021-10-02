@@ -1,4 +1,4 @@
-package curso3.camposdeobjetos;
+package curso1.TiposDeDados.aula3.camposdeobjetos;
 
 public class Carro {
 public String modelo;

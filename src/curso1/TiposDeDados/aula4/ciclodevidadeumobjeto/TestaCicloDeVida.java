@@ -1,6 +1,6 @@
-package curso4.ciclodevidadeumobjeto;
+package curso1.TiposDeDados.aula4.ciclodevidadeumobjeto;
 
-import curso3.camposdeobjetos.Carro;
+import curso1.TiposDeDados.aula3.camposdeobjetos.Carro;
 
 public class TestaCicloDeVida {
 

@@ -1,4 +1,4 @@
-package curso2.tiposdedados;
+package curso1.TiposDeDados.aula2.tiposdedados;
 
 public class Variaveis {
 
